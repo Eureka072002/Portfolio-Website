@@ -12,8 +12,8 @@ function reDirect1() {
     location.href = 'https://www.linkedin.com/in/ankit-raj-03a908269/'
 }
 function reDirect2() {
-    location.href = 'https://www.linkedin.com/in/ankit-raj-03a908269/'
+    location.href = 'https://auth.geeksforgeeks.org/user/ankit200v4e2'
 }
 function reDirect3() {
-    location.href = 'https://www.linkedin.com/in/ankit-raj-03a908269/'
+    location.href = 'https://leetcode.com/Ankit_nsec/'
 }
